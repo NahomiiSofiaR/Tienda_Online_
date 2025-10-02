@@ -1,5 +1,5 @@
 # Tienda_Online_
- 📅 Sprint 1 (Ejemplo)
+ 📅 Sprint 1 
 
 🎯 Objetivo
 Implementar el módulo **gestión de productos** para que el administrador pueda añadir, editar y eliminar productos.
